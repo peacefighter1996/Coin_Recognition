@@ -1,0 +1,16 @@
+@startuml
+
+start
+:get image;
+:trasfrom BGR to HSV;
+while (used all colourspaces?)
+    :create filtered image by using coulourspace;
+    :use Hough circle transfrom to find circles;
+    :add to database with Coulourspace Identify;
+endwhile
+:In supset messing and silver find overlap and combine;
+:Identyfy coin by size diffrence to coin0 and allocate type;
+:display results;
+stop
+
+@enduml

@@ -1,0 +1,27 @@
+coin: 2 cent
+size: 186
+colour: copper
+
+coin: 5 cent
+size: 212
+colour: copper
+
+coint: 10 cent
+size: 200
+colour: yellow
+
+coin: 20 cent
+size: 223-222
+colour: yellow
+
+coin: 50 cent
+size: 242 - 240
+colour: yellow
+
+coin: 1 euro
+size: 235
+colour: yellow
+
+coin: 2 euro
+size: 263
+colour: yellow
